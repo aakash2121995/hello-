@@ -12,7 +12,7 @@ DISPLAY = pygame.display.set_mode((display_width,display_height))
 pygame.display.set_caption("Slithher")
 
 
-red = (255,0,0)
+red = (0,255,255) # colour has been changed
 white =  (255,255,255)
 black = (0,0,0)
 green = (0,255,0)
